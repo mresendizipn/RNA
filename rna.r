@@ -1,3 +1,5 @@
+##Eliberto
+
 funcionesActivacion<-c("pureline","logsig","tansig")
 funcionesActivacion<-c("purelineDer","logsigDer","tansigDer")
 
